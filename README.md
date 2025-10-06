@@ -4,7 +4,7 @@
 
 - Group B, Team 5  
 - Alex Robertson (roberta1tcd)  
-- Finn Wright (CloudyUnity)  
+- Fiona Wright (CloudyUnity)  
 - Kyara McWilliam (Kya-ra)  
 - Mateusz Orlowski (MO1805)  
 - Matthew Poole (MPoole1105)  
@@ -27,7 +27,7 @@ Kyara was in charge of finding and pre-processing the data
 Tom was in charge of the query system   
 Alex created the GUI systems  
 Matthew and Tom were in charge of designing and setting up the UI  
-Finn set up the framework, made the shaders and 3D systems and created the charts  
+Fiona set up the framework, made the shaders and 3D systems and created the charts  
 
 # Report
 
@@ -67,7 +67,7 @@ between a range and by frequency. He also implemented a function for sorting the
 data by a type. Tom was also responsible for the actual design of UI, such as the home
 screen and color palette.  
 
-Finn created a 3D flight map to represent connections in a visually engaging way.
+Fiona created a 3D flight map to represent connections in a visually engaging way.
 Multiple vertex and fragment shaders were written to deal with lighting calculations,
 texture blending, specular highlights, normal mapping, texture translation and
 post-processing. Normal mapping was done using downsized online earth surface maps
@@ -76,7 +76,7 @@ Interpolation was used to create the line segments for the flight connection of 
 circle arcs. A standard skysphere was created by forcing the depth buffer value of the
 mesh to be infinite. The pie chart was made using the built-in Processing arc() function
 to draw sectors of a circle. The scatter plot initially seemed daunting due to poor
-performance but he was able to optimise them by using a mesh with vertices to
+performance but she was able to optimise them by using a mesh with vertices to
 represent the points and skipping duplicates.  
 
 We decided to attempt to create a 2D flight map with similar capabilities for data
