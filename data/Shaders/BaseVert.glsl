@@ -29,4 +29,4 @@ void main() {
   fragBinormal = normalize(cross(normMapNormal, fragTangent));
 }
 
-// Shaders written by Finn Wright
+// Shaders written by Fiona Wright
