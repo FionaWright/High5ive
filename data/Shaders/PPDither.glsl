@@ -30,4 +30,4 @@ void main() {
 // Original dithering shader by RavenWorks
 // https://www.shadertoy.com/view/Xs23zW
 // Adapted for Processing by Raphael de Courville <@sableRaph>
-// Further adapted by Finn Wright
+// Further adapted by Fiona Wright
