@@ -19,4 +19,4 @@ void main() {
   gl_FragColor = vec4(texture2D(tex, vertTexCoord.st + texTranslation).xyz, 1);
 }
 
-// Shaders written by Finn Wright
+// Shaders written by Fiona Wright
