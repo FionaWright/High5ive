@@ -9,6 +9,3 @@ Flight data from:
     Great Circle Mapper (http://www.gcmap.com/)
     flightradar24 (https://www.flightradar24.com/53.64,-6.41/7)
     AircraftOne (https://www.aircraftone.com/aircraft.asp?hn=)
-
-Shaders from:
-    Finn Wright (https://github.com/CloudyUnity/GraphicsEngine)
