@@ -15,4 +15,4 @@ void main() {
   texPos = position.xyz;
 }
 
-// Shaders written by Finn Wright
+// Shaders written by Fiona Wright
