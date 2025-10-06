@@ -7,4 +7,4 @@ void main() {
   gl_FragColor = vec4(1,1,1, 1);
 }
 
-// Shaders written by Finn Wright
+// Shaders written by Fiona Wright
