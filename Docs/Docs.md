@@ -1,6 +1,6 @@
 # THE DOCS
 
-- Written by Finn Wright 09/03/24
+- Written by Fiona Wright 09/03/24
 - Edited by Kyara (Cosmo) McWilliam and Mateusz Orlowski
 
 This file contains a short explanation on how the overall project structure works.  
